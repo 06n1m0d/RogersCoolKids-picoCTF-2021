@@ -3,7 +3,7 @@
 First, Since the file is zipped we unzip it with any tool like 7zip or WinZip to see the image files.
 We check the details of the disk image just to see what we find. It returned:
 
-
+![Capture](https://user-images.githubusercontent.com/71709994/113600359-84167800-9605-11eb-857e-792edce59f17.JPG)
 
 After inspecting the first two parts, they don’t seem to have anything relating to the flag.
 Let’s check partition 002 which starts from 2048. We can get here by doing:
