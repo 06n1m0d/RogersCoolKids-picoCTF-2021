@@ -24,4 +24,4 @@ And then, we simply press the decode button and we get:
 
 Now, we need to make this into lowercase and submit it as a flag and we are done.
 
-> picoCTF{}
+> lhxm62i5lwoI0rljor647xq9wh7wie
