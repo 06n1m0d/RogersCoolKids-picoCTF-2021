@@ -23,5 +23,3 @@ And then, we simply press the decode button and we get:
 ![image1](https://user-images.githubusercontent.com/71709994/113525102-a9a97000-9578-11eb-84ea-a785fd8e92f7.png)
 
 Now, we need to make this into lowercase and submit it as a flag and we are done.
-
-> lhxm62i5lwoI0rljor647xq9wh7wie
