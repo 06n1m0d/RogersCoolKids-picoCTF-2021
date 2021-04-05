@@ -56,4 +56,4 @@ And now to open this file we can use the icat command which is:
 
 `icat -o 2048 dds2-alpine.flag.img 18291`
 
-And then we get the flag
+And then we get the flag.
