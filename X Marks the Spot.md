@@ -33,3 +33,9 @@ while(True):
 ```
 After running this into a webshell, you will receive bits and pieces of the flag like shown below. (not sometimes there may be errors if you use Python 1):
 
+![image3](https://user-images.githubusercontent.com/71709994/113601272-b96f9580-9606-11eb-95b4-c23288f5dc0f.png)
+
+In Python 1, after you get a bit of the flag, you put it back into the seen_password so it can keep testing more and then after a few tries it will show you the flag. 
+In Python 2 however, it will show the whole flag. Either way, we get the flag like this.
+
+> Flag: picoCTF{h0p3fully_u_t0ok_th3_r1ght_xp4th_f0505d9c}
