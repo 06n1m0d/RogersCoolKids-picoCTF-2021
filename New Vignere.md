@@ -1,6 +1,6 @@
 # New Vignere
 
-There isn't much to this problem. We wrote a simpple Python script to solve this. 
+Using the code below, we can brute force and find all the possibilities by shifting the letters/numbers and using the letters/numbers which are allowed. We just keep shifting and looking for the correct cipher.
 
 ```python
 
@@ -78,3 +78,8 @@ for key in keys:
     flag = b16_decode(dec)
     print(flag)
 ```
+And after running this we get the flag: 
+
+
+
+Now we can just wrap it with picoCTF{} and we are done.
