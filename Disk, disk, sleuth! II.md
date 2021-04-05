@@ -8,7 +8,7 @@ Offset Sector: 0
 Units are in 512-byte sectors
 
       Slot      Start        End          Length       Description
-000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
+`000:`  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
 001:  -------   0000000000   0000002047   0000002048   Unallocated
 002:  000:000   0000002048   0000262143   0000260096   Linux (0x83)
 
