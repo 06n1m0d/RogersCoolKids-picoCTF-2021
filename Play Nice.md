@@ -16,3 +16,7 @@ Above is where we enter the text that we want to decode which is `1x5hqlod8x7oa8
 
 Now, we need to add the alphabet here:
 
+![image3](https://user-images.githubusercontent.com/71709994/113525067-6d760f80-9578-11eb-82fe-c0053338275d.png)
+
+And then, we simply press the decode button and we get:
+
