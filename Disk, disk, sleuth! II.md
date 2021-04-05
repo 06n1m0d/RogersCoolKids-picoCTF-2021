@@ -3,7 +3,7 @@
 First, Since the file is zipped we unzip it with any tool like 7zip or WinZip to see the image files.
 We check the details of the disk image just to see what we find. It returned:
 
-![picoctf1](https://user-images.githubusercontent.com/71709994/113600058-1702e280-9605-11eb-906a-6c52749d267e.jpg)
+
 
 After inspecting the first two parts, they don’t seem to have anything relating to the flag.
 Let’s check partition 002 which starts from 2048. We can get here by doing:
