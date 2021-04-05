@@ -3,14 +3,6 @@
 First, Since the file is zipped we unzip it with any tool like 7zip or WinZip to see the image files.
 We check the details of the disk image just to see what we find. It returned:
 
-`DOS Partition Table
-Offset Sector: 0
-Units are in 512-byte sectors`
-
-       Slot      Start       End          Length       Description
-`000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
-001:  -------   0000000000   0000002047   0000002048   Unallocated
-002:  000:000   0000002048   0000262143   0000260096   Linux (0x83)`
 
 
 After inspecting the first two parts, they don’t seem to have anything relating to the flag.
@@ -57,3 +49,4 @@ And now to open this file we can use the icat command which is:
 `icat -o 2048 dds2-alpine.flag.img 18291`
 
 And then we get the flag.
+
