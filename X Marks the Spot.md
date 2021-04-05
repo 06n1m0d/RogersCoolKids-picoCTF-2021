@@ -31,3 +31,5 @@ while(True):
       seen_password = seen_password + ch
       break
 ```
+After running this into a webshell, you will receive bits and pieces of the flag like shown below. (not sometimes there may be errors if you use Python 1):
+
