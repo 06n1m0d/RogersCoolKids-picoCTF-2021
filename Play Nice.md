@@ -24,4 +24,4 @@ And then, we simply press the decode button and we get:
 
 Now, we need to make this into lowercase and submit it as a flag and we are done.
 
-Flag: (No Wrapper) lhxm62i5lwoi0rljor647xq9wh7wie 
+> Flag: (No Wrapper) lhxm62i5lwoi0rljor647xq9wh7wie 
