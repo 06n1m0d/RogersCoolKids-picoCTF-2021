@@ -80,6 +80,8 @@ for key in keys:
 ```
 And after running this we get the flag: 
 
-
+![image6](https://user-images.githubusercontent.com/71709994/113639100-0a4eb080-963e-11eb-8238-bbd324a74cf6.png)
 
 Now we can just wrap it with picoCTF{} and we are done.
+
+> Flag: picoCTF{73885da7b4e46e4d01ee934278716e68}
